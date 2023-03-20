@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Codewars](https://github.r2v.ch/codewars?user=Phil007197&top_languages=true&name=true&hide_clan=true&theme=purple_dark)
+
+
 <!--
 **PHILIPP111007/PHILIPP111007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
