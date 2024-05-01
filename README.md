@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hi everyone , My name is Philipp and I'm fullstack developer with 2 years of experience.
 
-![Codewars](https://github.r2v.ch/codewars?user=Phil007197&top_languages=true&name=true&hide_clan=true&theme=purple_dark)
-
+## Technologies
+* Python3 (Django)
+* SQL databases (Postgrees)
+* In-Memory databases (Redis)
+* Containerization (Docker, Docker-Compose)
+* CI/CD (gitlab)
+* Proxy Servers (Nginx)
+* JavaScript (React)
+* WebSockets (JavaScript && django-channels)
+* Go
 
 <!--
+![Codewars](https://github.r2v.ch/codewars?user=Phil007197&top_languages=true&name=true&hide_clan=true&theme=purple_dark)
 **PHILIPP111007/PHILIPP111007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
