@@ -2,7 +2,7 @@
 
 ## Technologies
 * Python3 (Django)
-* SQL databases (Postgrees)
+* SQL databases (Postgres)
 * In-Memory databases (Redis)
 * Containerization (Docker, Docker-Compose)
 * CI/CD (gitlab)
