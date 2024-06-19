@@ -13,7 +13,7 @@
 
 ___
 You may donate to [phils_network](https://github.com/PHILIPP111007/phils_network) project: \
-Ethereum: 0xE2e2D675a3843f4ED211BB93847ad18b0A6fe7c6 \
+Ethereum: 0xE2e2D675a3843f4ED211BB93847ad18b0A6fe7c6
 ___
 
 
