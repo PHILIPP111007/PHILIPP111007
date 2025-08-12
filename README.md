@@ -1,17 +1,18 @@
-### Hi everyone , My name is Philipp and I'm fullstack developer with 2 years of experience.
+### Hi everyone , My name is Philipp and I'm fullstack developer with 2 years of experience. I also do ML in my free time.
 
 ## Technologies
-* Python3 (Django)
+* Python3 (Django, FastAPI)
 * SQL databases (Postgres)
 * In-Memory databases (Redis)
 * Containerization (Docker, Docker-Compose)
-* CI/CD (gitlab)
+* CI/CD (Gitlab)
 * Proxy Servers (Nginx)
 * JavaScript (React)
 * WebSockets (JavaScript && django-channels)
 * Go
+* C
 
-> You may donate to [phils_network](https://github.com/PHILIPP111007/phils_network) project:
+> You may donate to [phils_network](https://github.com/PHILIPP111007/phils_network) and [phils_model](https://github.com/PHILIPP111007/ML/tree/main/phils_model) projects:
 >
 > * Ethereum: 0xE2e2D675a3843f4ED211BB93847ad18b0A6fe7c6
 
