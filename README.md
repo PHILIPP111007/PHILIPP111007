@@ -1,4 +1,4 @@
-### Hi everyone , My name is Philipp and I'm fullstack developer with 2 years of experience. I also do ML in my free time.
+### Hi everyone , My name is Philipp and I'm Bioinformatician. I also do ML in my free time.
 
 ## Technologies
 * Python3 (Django, FastAPI)
